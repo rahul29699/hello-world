@@ -1,5 +1,4 @@
-# hello-world
-Just another repository 
+# Name and Major
 #include<stdlib.h>
 #include<stdio.h>
 int main()
